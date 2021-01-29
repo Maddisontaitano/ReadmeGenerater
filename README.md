@@ -1,16 +1,15 @@
 # ReadmeGenerater
-
-
-    this project enables a user to effectively produce a structural ReadMe with extensive information about themselves and their application. By prompting the user with a series of questions, this easily creates an effective readMe with a polished and professional look. 
+    this project enables a user to effectively produce a structural ReadMe with
+    extensive information about themselves and their application. By prompting the user with a series of questions, this easily creates an effective readMe with a polished and professional look. 
     
 
 ## Table Of Contents
-*[Installation](#installation)
-    *[usage](#usage)
-    *[license](#license)
-    *[contribution](#contribution)
-    *[tests](#tests)
-    *[questions](#questions)
+*[Installation](#installation)<br>
+    *[usage](#usage)<br>
+    *[license](#license)<br>
+    *[contribution](#contribution)<br>
+    *[tests](#tests)<br>
+    *[questions](#questions)<br>
 
 
 ## Installation
