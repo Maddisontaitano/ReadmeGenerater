@@ -33,7 +33,15 @@ Please go through the following steps to run this application
     npm test
 
  ## Questions
-    For any follow up questions, plese feel free to contact me at my GitHub page: [GitHub Profile](https://github.com/MaddisonTaitano/Readme Generator).
-    
+    For any follow up questions, plese feel free to contact me at my GitHub page: [GitHub Profile](https://github.com/MaddisonTaitano/ReadmeGenerator).
+
+## Code Snippets 
+
+This snippet writes the ReadMe file and is located in the index.js file.
+<img src="/images/writefile.png" alt="writefile function"/>
+
+This is a snippet of the generateMarkdown.js file. This file is the skeleton for the generatable ReadMe. 
+<img src="/images/generateMarkdown.png" alt="My cool logo"/>
+
  ## License
     [MIT](https://choosealicense.com/licenses/mit/)
